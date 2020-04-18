@@ -1,6 +1,7 @@
+<!DOCTYPE HTML>
 <HTML>
 	<HEAD>
-		<TITLE></TITLE>
+		<TITLE>Laravel Social Login App</TITLE>
 	</HEAD>
 	<BODY>
 		Hello world!
