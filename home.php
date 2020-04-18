@@ -4,6 +4,6 @@
 		<TITLE>Laravel Social Login App</TITLE>
 	</HEAD>
 	<BODY>
-		Hello world!
+		Hello world! again
 	</BODY>
 </HTML>
